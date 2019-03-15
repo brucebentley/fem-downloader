@@ -14,7 +14,7 @@ $ npm install
 
 Install all the dependencies listed within `package.json` in the local `node_modules` folder.
 
-> *nbsp;
+> *nbsp;  
 > **Please Note:**  
 > The `Puppeteer` installation will download a version of Chromium that is compatible with your OS.  
 > &nbsp;  
